@@ -1,7 +1,7 @@
 # Trending IT Careers
 
 #### Blockchain Engineer ####
-#### Data scientist ####
+#### Data Scientist ####
 #### DevOps Engineer ####
 #### Cloud Consultant ####
 #### Hybrid Cloud Consultant ####
@@ -18,3 +18,8 @@
 
 #### Related Skill And Knowledge
 Chaincode,Smart Contracts,Distributed Ledger, Hyperledger, Hyperledger Composer,Ethereum, Multichain 
+
+
+### Data Scientist
+#### Related Skill And Knowledge
+Map- Reduce, Hadoop, Hive, NoSQL,Advanced data visualization skills,Neural Net, Logistic Regression, Decision Trees, KNN, SVM, Random Forest
