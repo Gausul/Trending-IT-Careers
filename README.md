@@ -1,5 +1,8 @@
 # Trending IT Careers
 
+#### IoT developer ####
+#### Internet of Things Architect (IOT Architect) ####
+
 #### react js developer ####
 #### Blockchain Engineer ####
 #### Data Scientist ####
@@ -11,8 +14,6 @@
 #### Computer Security Operations ####
 #### Virtual Reality Engineer (VR Engineer) ####
 #### Machine Learning Specialist (ML Specialist) ####
-#### Internet of Things Architect (IOT Architect) ####
-
 
 
 ## Blockchain Engineer
